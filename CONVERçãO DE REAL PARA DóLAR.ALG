@@ -5,7 +5,7 @@ din,dolar,convercao: real
 Inicio
 Escreva(" Quantos reais você tem ?")
 leia(din)
-dolar := 5.64
+dolar := 5.50
 convercao := din/dolar
 escreva(convercao)
 Fimalgoritmo
